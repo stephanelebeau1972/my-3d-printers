@@ -1,7 +1,7 @@
 # my-3d-printers<br>
 Information about the 3D printers I use regularly<br>
 <br>
-Anycubic Photon:<br>
+Anycubic Photon (Fauxton):<br>
 SLA printer<br>
 Mostly used for tabletop gaming miniatures.<br>
 Useful Links:<br>
